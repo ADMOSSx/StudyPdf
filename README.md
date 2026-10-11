@@ -192,3 +192,4 @@ Zip `dist\StudyPDF` for friends (or wrap it with Inno Setup). Run the server exe
 - **Professional annotation presets:** the annotation properties bar now offers quick Fine / Standard / Bold presets, dedicated Soft / Classic / Bold marker presets, and Small / Standard / Large text presets. Colour, width and opacity remain adjustable manually; undo/redo and vector annotations are retained.
 - **Study workspace:** personal notes are saved per PDF, while the question tracker, Pomodoro timer, chat, people/presence and live shared annotations are available in a study room. Host controls include room settings and member removal.
 - **Long-document-friendly defaults:** thumbnails remain lazy, page rasters are bounded, and PDF text search uses a worker thread. Performance still depends on PDF page complexity and disk/CPU speed.
+"# StudyPdf" 
