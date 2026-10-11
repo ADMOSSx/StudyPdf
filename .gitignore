@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+server_data/
+dist/
+build/
+*.spec
